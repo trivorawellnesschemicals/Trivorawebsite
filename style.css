@@ -255,4 +255,14 @@ footer {
 [data-animate].animate-in {
   opacity: 1;
   transform: translateY(0);
+
+}
+
+.product-basket .basket-images img {
+  display: block;
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto 25px auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,105,92,0.13);
 }
